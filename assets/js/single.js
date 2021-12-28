@@ -100,4 +100,4 @@ var displayWarning = function (repo) {
 };
 
 
-userFormEl.addEventListener('submit', formSubmitHandler);
+getRepoName();
